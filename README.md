@@ -28,8 +28,7 @@ We compared three distinct topologies:
 * **Golden Spiral:** Bio-mimetic non-repeating order.
 
 ### 2. The Performance (V-I Curve)
-
-
+![Pinning Landscapes](results/vi_curve.png)
 **Findings:**
 1.  **Low-Current Regime ($J < 0.5$):** The **Golden Spiral (Green)** matches the zero-resistance performance of the perfect **Hexagonal Lattice (Red)**, significantly outperforming the **Random (Blue)** standard.
 2.  **Robustness:** The study proves that strict translational symmetry is *not* required for efficient flux pinning. A bio-mimetic spiral provides a "fault-tolerant" alternative for manufacturing.
