@@ -36,34 +36,21 @@ We compared three distinct topologies:
 
 ---
 
-## 🛠️ Installation & Usage
+## Run the Simulation
 
-### Prerequisites
-* Python 3.x
-* NumPy
-* Matplotlib
-
-### Quick Start
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/mesidd/bio-mimetic-flux-pinning.git
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the Simulation**
-    To generate the V-I Curves and compare geometries:
-    ```bash
-    python src/vortex_dynamics.py
-    ```
+To generate the V-I Curves and Pinning Landscapes:
+```bash
+    python code/vortex_dynamics.py
+```
+To generate Field Visualization:
+ ```bash
+python code/visualization.py
+```
 
 ---
 
 ## 📄 Research Note
 For a detailed breakdown of the physics, methodology, and mathematical framework, please refer to the full research note included in this repository:
-[📄 Read the Full Paper (PDF)](docs/conductor.pdf)
+[📄 Read the Full Paper (PDF)](paper/BioMimetic_Flux_Pinning_Optimization.pdf)
 
 ---
