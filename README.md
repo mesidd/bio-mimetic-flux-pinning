@@ -28,7 +28,7 @@ We compared three distinct topologies:
 * **Golden Spiral:** Bio-mimetic non-repeating order.
 
 ### 2. The Performance (V-I Curve)
-![V-I Curve](results/vi_curve_results.png)
+
 
 **Findings:**
 1.  **Low-Current Regime ($J < 0.5$):** The **Golden Spiral (Green)** matches the zero-resistance performance of the perfect **Hexagonal Lattice (Red)**, significantly outperforming the **Random (Blue)** standard.
